@@ -1,3 +1,6 @@
 # MIT-AI
-# MIT-AI
-# MIT-AI
+---
+- IT
+- NLP
+- SML
+- SPM
